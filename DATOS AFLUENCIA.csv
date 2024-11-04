@@ -1,0 +1,919 @@
+Linea,Estacion,Promedio de Afluencia,Año,Periodo,Tipo de Afluencia
+3,Indios Verdes,"135,607",2015,ENE-MAR,Mayor
+A,Pantitlán,"128,249",2015,ENE-MAR,Mayor
+8,Constitución de 1917,"118,192",2015,ENE-MAR,Mayor
+2,Cuatro Caminos,"116,913",2015,ENE-MAR,Mayor
+9,Pantitlán,"109,62",2015,ENE-MAR,Mayor
+5,Pantitlán,"108,901",2015,ENE-MAR,Mayor
+2,Tasqueña,"100,055",2015,ENE-MAR,Mayor
+3,Universidad,"84,64",2015,ENE-MAR,Mayor
+1,Observatorio,"82,091",2015,ENE-MAR,Mayor
+1,Insurgentes,"74,246",2015,ENE-MAR,Mayor
+B,Ciudad Azteca,"68,675",2015,ENE-MAR,Mayor
+1,Chapultepec,"64,104",2015,ENE-MAR,Mayor
+2,Zócalo,"63,356",2015,ENE-MAR,Mayor
+B,Buenavista,"62,741",2015,ENE-MAR,Mayor
+1,Zaragoza,"61,889",2015,ENE-MAR,Mayor
+9,Chilpancingo,"55,615",2015,ENE-MAR,Mayor
+9,Tacubaya,"54,589",2015,ENE-MAR,Mayor
+12,Atlalilco,"53,907",2015,ENE-MAR,Mayor
+1,Pantitlán,"50,652",2015,ENE-MAR,Mayor
+3,Copilco,"50,495",2015,ENE-MAR,Mayor
+4,Santa Anita,"2,522",2015,ENE-MAR,Menor
+6,Deptvo. 18 de Marzo,"2,598",2015,ENE-MAR,Menor
+8,Chabacano,"4,05",2015,ENE-MAR,Menor
+6,Inst. del Petróleo,"4,577",2015,ENE-MAR,Menor
+5,Valle Gómez,"4,936",2015,ENE-MAR,Menor
+B,Morelos,"4,978",2015,ENE-MAR,Menor
+5,Consulado,"5,456",2015,ENE-MAR,Menor
+5,Hangares,"5,727",2015,ENE-MAR,Menor
+B,Guerrero,"5,781",2015,ENE-MAR,Menor
+6,Tezozomoc,"5,174",2015,ENE-MAR,Menor
+B,Bosque de Aragón,"6,289",2015,ENE-MAR,Menor
+8,Santa Anita,"6,733",2015,ENE-MAR,Menor
+B,Ricardo Flores Magón,"6,795",2015,ENE-MAR,Menor
+5,Institutp del Petróleo,"6,988",2015,ENE-MAR,Menor
+9,Ciudad Deportiva,"7,016",2015,ENE-MAR,Menor
+4,Bondojito,"7,061",2015,ENE-MAR,Menor
+8,La Viga,"7,098",2015,ENE-MAR,Menor
+4,Talismán,"7,246",2015,ENE-MAR,Menor
+7,Tacubaya,"7,489",2015,ENE-MAR,Menor
+3,Indios Verdes,"135,29",2015,ABR-JUN,Mayor
+A,Pantitlán,"132,121",2015,ABR-JUN,Mayor
+2,Cuatro Caminos,"120,878",2015,ABR-JUN,Mayor
+8,Constitución de 1917,"114,428",2015,ABR-JUN,Mayor
+9,Pantitlán,"111,153",2015,ABR-JUN,Mayor
+5,Pantitlán,"108,278",2015,ABR-JUN,Mayor
+2,Tasqueña,"100,736",2015,ABR-JUN,Mayor
+3,Universidad,"84,176",2015,ABR-JUN,Mayor
+1,Observatorio,"84,076",2015,ABR-JUN,Mayor
+1,Insurgentes,"75,398",2015,ABR-JUN,Mayor
+B,Ciudad Azteca,"71,185",2015,ABR-JUN,Mayor
+2,Zócalo,"70,282",2015,ABR-JUN,Mayor
+1,Chapultepec,"65,443",2015,ABR-JUN,Mayor
+B,Buenavista,"65,372",2015,ABR-JUN,Mayor
+1,Zaragoza,"61,884",2015,ABR-JUN,Mayor
+9,Chilpancingo,"54,869",2015,ABR-JUN,Mayor
+9,Tacubaya,"54,793",2015,ABR-JUN,Mayor
+1,Pantitlán,"52,789",2015,ABR-JUN,Mayor
+12,Atlalilco,"49,326",2015,ABR-JUN,Mayor
+1,Merced,"48,987",2015,ABR-JUN,Mayor
+4,Santa Anita,"2,471",2015,ABR-JUN,Menor
+6,Deptvo. 18 de Marzo,"2,728",2015,ABR-JUN,Menor
+8,Chabacano,"4,343",2015,ABR-JUN,Menor
+6,Inst. del Petróleo,"4,623",2015,ABR-JUN,Menor
+4,Consulado,"4,867",2015,ABR-JUN,Menor
+B,Morelos,"4,916",2015,ABR-JUN,Menor
+5,Valle Gómez,"5,014",2015,ABR-JUN,Menor
+5,Consulado,"5,604",2015,ABR-JUN,Menor
+5,Hangares,"5,768",2015,ABR-JUN,Menor
+B,Guerrero,"5,967",2015,ABR-JUN,Menor
+B,Ricardo Flores Magón,"6,245",2015,ABR-JUN,Menor
+6,Tezozomoc,"6,25",2015,ABR-JUN,Menor
+B,Bosque de Aragón,"6,426",2015,ABR-JUN,Menor
+5,Inst. del Petróleo,"6,746",2015,ABR-JUN,Menor
+4,Talismán,"7,231",2015,ABR-JUN,Menor
+4,Bondojito,"7,24",2015,ABR-JUN,Menor
+9,Ciudad Deportiva,"7,285",2015,ABR-JUN,Menor
+8,Santa Anita,"7,288",2015,ABR-JUN,Menor
+8,La Viga,"7,341",2015,ABR-JUN,Menor
+12,Eje Central,"7,362",2015,ABR-JUN,Menor
+4,Santa Anita,"2,471",2015,JUL-SEP,Mayor
+6,Deptvo. 18 de Marzo,"2,728",2015,JUL-SEP,Mayor
+8,Chabacano,"4,343",2015,JUL-SEP,Mayor
+6,Inst. del Petróleo,"4,623",2015,JUL-SEP,Mayor
+4,Consulado,"4,867",2015,JUL-SEP,Mayor
+B,Morelos,"4,916",2015,JUL-SEP,Mayor
+5,Valle Gómez,"5,014",2015,JUL-SEP,Mayor
+5,Consulado,"5,604",2015,JUL-SEP,Mayor
+5,Hangares,"5,768",2015,JUL-SEP,Mayor
+B,Guerrero,"5,967",2015,JUL-SEP,Mayor
+B,Ricardo Flores Magón,"6,245",2015,JUL-SEP,Mayor
+6,Tezozomoc,"6,25",2015,JUL-SEP,Mayor
+B,Bosque de Aragón,"6,426",2015,JUL-SEP,Mayor
+5,Inst. del Petróleo,"6,746",2015,JUL-SEP,Mayor
+4,Talismán,"7,231",2015,JUL-SEP,Mayor
+4,Bondojito,"7,24",2015,JUL-SEP,Mayor
+9,Ciudad Deportiva,"7,285",2015,JUL-SEP,Mayor
+8,Santa Anita,"7,288",2015,JUL-SEP,Mayor
+8,La Viga,"7,341",2015,JUL-SEP,Mayor
+12,Eje Central,"7,362",2015,JUL-SEP,Mayor
+4,Santa Anita,"2,465",2015,JUL-SEP,Menor
+6,Deptvo. 18 de Marzo,"2,963",2015,JUL-SEP,Menor
+8,Chabacano,"4,212",2015,JUL-SEP,Menor
+5,Valle Gómez,"4,733",2015,JUL-SEP,Menor
+4,Consulado,"4,796",2015,JUL-SEP,Menor
+B,Morelos,"4,879",2015,JUL-SEP,Menor
+A,Peñón Viejo,"4,966",2015,JUL-SEP,Menor
+6,Inst. del Petróleo,"5,014",2015,JUL-SEP,Menor
+A,Acatitla,"5,313",2015,JUL-SEP,Menor
+5,Consulado,"5,35",2015,JUL-SEP,Menor
+5,Hangares,"5,837",2015,JUL-SEP,Menor
+B,Guerrero,"5,861",2015,JUL-SEP,Menor
+6,Tezozomoc,"6,106",2015,JUL-SEP,Menor
+B,Ricardo Flores Magón,"6,194",2015,JUL-SEP,Menor
+5,Inst. del Petróleo,"6,443",2015,JUL-SEP,Menor
+B,Bosque de Aragón,"6,503",2015,JUL-SEP,Menor
+9,Ciudad Deportiva,"6,996",2015,JUL-SEP,Menor
+4,Talismán,"7,019",2015,JUL-SEP,Menor
+8,Santa Anita,"7,072",2015,JUL-SEP,Menor
+12,Eje Central,"7,163",2015,JUL-SEP,Menor
+A,Pantitlán,"130,072",2015,OCT-DIC,Mayor
+3,Indios Verdes,"129,15",2015,OCT-DIC,Mayor
+2,Cuatro Caminos,"121,785",2015,OCT-DIC,Mayor
+9,Pantitlán,"110,474",2015,OCT-DIC,Mayor
+8,Constitución de 1917,"107,794",2015,OCT-DIC,Mayor
+9,Pantitlán,"107,105",2015,OCT-DIC,Mayor
+2,Tasqueña,"95,562",2015,OCT-DIC,Mayor
+3,Universidad,"85,424",2015,OCT-DIC,Mayor
+1,Observatorio,"83,652",2015,OCT-DIC,Mayor
+2,Zócalo,"80,444",2015,OCT-DIC,Mayor
+1,Insurgentes,"74,59",2015,OCT-DIC,Mayor
+B,Ciudad Azteca,"72,91",2015,OCT-DIC,Mayor
+B,Buenavista,"67,199",2015,OCT-DIC,Mayor
+1,Zaragoza,"60,854",2015,OCT-DIC,Mayor
+1,Chapultepec,"60,394",2015,OCT-DIC,Mayor
+1,Merced,"56,087",2015,OCT-DIC,Mayor
+9,Tacubaya,"54,503",2015,OCT-DIC,Mayor
+1,Pantitlán,"52,328",2015,OCT-DIC,Mayor
+9,Chilpancingo,"49,366",2015,OCT-DIC,Mayor
+7,Barranca del Muerto,"46,778",2015,OCT-DIC,Mayor
+12,Tlaltenco,822,2015,OCT-DIC,Menor
+4,Santa Anita,"2,498",2015,OCT-DIC,Menor
+6,Deptvo. 18 de Marzo,"2,817",2015,OCT-DIC,Menor
+12,Zapotitlán,"3,845",2015,OCT-DIC,Menor
+8,Chabacano,"4,373",2015,OCT-DIC,Menor
+12,Olivos,"4,67",2015,OCT-DIC,Menor
+4,Consulado,"4,938",2015,OCT-DIC,Menor
+B,Morelos,"5,055",2015,OCT-DIC,Menor
+5,Valle Gómez,"5,076",2015,OCT-DIC,Menor
+6,Inst. del Petróleo,"5,125",2015,OCT-DIC,Menor
+12,Lomas Estrella,"5,148",2015,OCT-DIC,Menor
+12,Nopalera,"5,219",2015,OCT-DIC,Menor
+12,Tezonco,"5,357",2015,OCT-DIC,Menor
+12,San Andrés Tomatlán,"5,582",2015,OCT-DIC,Menor
+5,Consulado,"5,619",2015,OCT-DIC,Menor
+B,Ricardo Flores Magón,"5,767",2015,OCT-DIC,Menor
+B,Guerrero,"5,855",2015,OCT-DIC,Menor
+5,Hangares,"5,91",2015,OCT-DIC,Menor
+B,Bosque de Aragón,"6,364",2015,OCT-DIC,Menor
+6,Tezozomoc,"6,515",2015,OCT-DIC,Menor
+A,Pantitlán,"126,611",2016,ENE-MAR,Mayor
+3,Indios Verdes,"124,577",2016,ENE-MAR,Mayor
+2,Cuatro Caminos,"115,188",2016,ENE-MAR,Mayor
+5,Pantitlán,"104,941",2016,ENE-MAR,Mayor
+8,Constitución de 1917,"100,084",2016,ENE-MAR,Mayor
+9,Pantitlán,"100,028",2016,ENE-MAR,Mayor
+3,Universidad,"83,871",2016,ENE-MAR,Mayor
+2,Tasqueña,"83,24",2016,ENE-MAR,Mayor
+1,Observatorio,"78,282",2016,ENE-MAR,Mayor
+1,Insurgentes,"68,796",2016,ENE-MAR,Mayor
+B,Ciudad Azteca,"68,146",2016,ENE-MAR,Mayor
+2,Zócalo,"67,413",2016,ENE-MAR,Mayor
+B,Buenavista,"58,452",2016,ENE-MAR,Mayor
+1,Chapultepec,"58,028",2016,ENE-MAR,Mayor
+1,Zaragoza,"57,312",2016,ENE-MAR,Mayor
+9,Tacubaya,"52,8",2016,ENE-MAR,Mayor
+9,Chilpancingo,"52,282",2016,ENE-MAR,Mayor
+1,Pantitlán,"49,828",2016,ENE-MAR,Mayor
+1,Merced,"45,522",2016,ENE-MAR,Mayor
+7,Barranca del Muerto,"44,94",2016,ENE-MAR,Mayor
+12,Tlaltenco,"2,194",2016,ENE-MAR,Menor
+6,Deportivo 18 de Marzo,"2,271",2016,ENE-MAR,Menor
+4,Santa Anita,"2,299",2016,ENE-MAR,Menor
+B,Morelos,"3,726",2016,ENE-MAR,Menor
+8,Chabacano,"4,054",2016,ENE-MAR,Menor
+6,Instituto del Petróleo,"4,486",2016,ENE-MAR,Menor
+4,Consulado,"4,562",2016,ENE-MAR,Menor
+5,Valle Gómez,"4,76",2016,ENE-MAR,Menor
+5,Consulado,"5,08",2016,ENE-MAR,Menor
+5,Hangares,"5,231",2016,ENE-MAR,Menor
+B,Guerrero,"5,37",2016,ENE-MAR,Menor
+B,Ricardo Flores Magón,"5,398",2016,ENE-MAR,Menor
+6,Tezozómoc,"5,952",2016,ENE-MAR,Menor
+B,Bosques de Aragón,"6,189",2016,ENE-MAR,Menor
+4,Talismán,"6,404",2016,ENE-MAR,Menor
+5,Instituto del Petróleo,"6,592",2016,ENE-MAR,Menor
+9,Ciudad Deportiva,"6,647",2016,ENE-MAR,Menor
+8,Santa Anita,"6,694",2016,ENE-MAR,Menor
+8,La Viga,"7,061",2016,ENE-MAR,Menor
+7,Tacubaya,"7,1",2016,ENE-MAR,Menor
+3,Indios Verdes,"131,744",2016,ABR-JUN,Mayor
+A,Pantitlán,"126,519",2016,ABR-JUN,Mayor
+2,Cuatro Caminos,"120,749",2016,ABR-JUN,Mayor
+5,Pantitlán,"112,293",2016,ABR-JUN,Mayor
+9,Pantitlán,"106,078",2016,ABR-JUN,Mayor
+8,Constitución de 1917,"99,922",2016,ABR-JUN,Mayor
+3,Universidad,"88,23",2016,ABR-JUN,Mayor
+2,Tasqueña,"85,768",2016,ABR-JUN,Mayor
+1,Observatorio,"84,914",2016,ABR-JUN,Mayor
+1,Insurgentes,"72,666",2016,ABR-JUN,Mayor
+B,Ciudad Azteca,"70,338",2016,ABR-JUN,Mayor
+2,Zócalo,"67,848",2016,ABR-JUN,Mayor
+B,Buenavista,"66,128",2016,ABR-JUN,Mayor
+1,Chapultepec,"61,949",2016,ABR-JUN,Mayor
+1,Zaragoza,"59,053",2016,ABR-JUN,Mayor
+9,Tacubaya,"57,143",2016,ABR-JUN,Mayor
+1,Pantitlán,"51,305",2016,ABR-JUN,Mayor
+3,Copilco,"50,913",2016,ABR-JUN,Mayor
+9,Chilpancingo,"50,061",2016,ABR-JUN,Mayor
+1,Merced,"48,742",2016,ABR-JUN,Mayor
+6,Deptvo. 18 de Marzo,"2,166",2016,ABR-JUN,Menor
+4,Santa Anita,"2,434",2016,ABR-JUN,Menor
+12,Tlaltenco,"2,558",2016,ABR-JUN,Menor
+B,Morelos,"3,954",2016,ABR-JUN,Menor
+8,Chabacano,"4,382",2016,ABR-JUN,Menor
+6,Inst. del Petróleo,"4,618",2016,ABR-JUN,Menor
+4,Consulado,"4,747",2016,ABR-JUN,Menor
+5,Valle Gómez,"5,179",2016,ABR-JUN,Menor
+5,Consulado,"5,443",2016,ABR-JUN,Menor
+5,Hangares,"5,643",2016,ABR-JUN,Menor
+B,Guerrero,"5,938",2016,ABR-JUN,Menor
+B,Ricardo Flores Magón,6,2016,ABR-JUN,Menor
+6,Tezozomoc,"6,361",2016,ABR-JUN,Menor
+5,Inst. del Petróleo,"6,41",2016,ABR-JUN,Menor
+B,Bosque de Aragón,"6,503",2016,ABR-JUN,Menor
+B,Garibaldi,"6,577",2016,ABR-JUN,Menor
+4,Talismán,"6,623",2016,ABR-JUN,Menor
+9,Ciudad Deportiva,"7,078",2016,ABR-JUN,Menor
+8,Santa Anita,"7,315",2016,ABR-JUN,Menor
+7,Tacubaya,"7,501",2016,ABR-JUN,Menor
+A,Pantitlán,"132,151",2016,JUL-SEP,Mayor
+3,Indios Verdes,"127,679",2016,JUL-SEP,Mayor
+2,Cuatro Caminos,"112,836",2016,JUL-SEP,Mayor
+5,Pantitlán,"111,929",2016,JUL-SEP,Mayor
+8,Constitución de 1917,"102,274",2016,JUL-SEP,Mayor
+9,Pantitlán,"101,053",2016,JUL-SEP,Mayor
+1,Observatorio,"85,089",2016,JUL-SEP,Mayor
+3,Universidad,"84,515",2016,JUL-SEP,Mayor
+2,Tasqueña,"79,695",2016,JUL-SEP,Mayor
+2,Zócalo,"72,294",2016,JUL-SEP,Mayor
+1,Insurgentes,"69,319",2016,JUL-SEP,Mayor
+B,Ciudad Azteca,"66,723",2016,JUL-SEP,Mayor
+B,Buenavista,"63,465",2016,JUL-SEP,Mayor
+1,Chapultepec,"60,536",2016,JUL-SEP,Mayor
+1,Zaragoza,"57,185",2016,JUL-SEP,Mayor
+9,Tacubaya,"55,838",2016,JUL-SEP,Mayor
+9,Chilpancingo,"52,317",2016,JUL-SEP,Mayor
+1,Pantitlán,"51,567",2016,JUL-SEP,Mayor
+1,Merced,"50,971",2016,JUL-SEP,Mayor
+3,Copilco,"49,053",2016,JUL-SEP,Mayor
+4,Santa Anita,"2,454",2016,JUL-SEP,Menor
+12,Tlaltenco,"2,73",2016,JUL-SEP,Menor
+B,Morelos,"4,067",2016,JUL-SEP,Menor
+8,Chabacano,"4,105",2016,JUL-SEP,Menor
+6,Inst. del Petróleo,"4,251",2016,JUL-SEP,Menor
+4,Consulado,"4,545",2016,JUL-SEP,Menor
+5,Valle Gómez,"4,932",2016,JUL-SEP,Menor
+5,Consulado,"5,003",2016,JUL-SEP,Menor
+5,Hangares,"5,526",2016,JUL-SEP,Menor
+B,Ricardo Flores Magón,"5,653",2016,JUL-SEP,Menor
+B,Guerrero,"5,76",2016,JUL-SEP,Menor
+5,Inst. del Petróleo,"5,925",2016,JUL-SEP,Menor
+6,Tezozomoc,"5,927",2016,JUL-SEP,Menor
+4,Talismán,"6,115",2016,JUL-SEP,Menor
+B,Bosque de Aragón,"6,385",2016,JUL-SEP,Menor
+B,Garibaldi,"6,828",2016,JUL-SEP,Menor
+9,Ciudad Deportiva,"6,916",2016,JUL-SEP,Menor
+8,Iztapalapa,"7,006",2016,JUL-SEP,Menor
+8,Santa Anita,"7,009",2016,JUL-SEP,Menor
+A,Pantitlán,"135,691",2016,OCT-DIC,Mayor
+3,Indios Verdes,"130,124",2016,OCT-DIC,Mayor
+5,Pantitlán,"114,808",2016,OCT-DIC,Mayor
+2,Cuatro Caminos,"111,219",2016,OCT-DIC,Mayor
+8,Constitución de 1917,"106,862",2016,OCT-DIC,Mayor
+9,Pantitlán,"100,605",2016,OCT-DIC,Mayor
+3,Universidad,"85,716",2016,OCT-DIC,Mayor
+2,Tasqueña,"83,224",2016,OCT-DIC,Mayor
+2,Zócalo,"82,486",2016,OCT-DIC,Mayor
+1,Observatorio,"81,684",2016,OCT-DIC,Mayor
+B,Buenavista,"67,107",2016,OCT-DIC,Mayor
+B,Ciudad Azteca,"66,343",2016,OCT-DIC,Mayor
+1,Insurgentes,"64,46",2016,OCT-DIC,Mayor
+1,Chapultepec,"57,093",2016,OCT-DIC,Mayor
+9,Tacubaya,"56,714",2016,OCT-DIC,Mayor
+1,Merced,"55,752",2016,OCT-DIC,Mayor
+1,Zaragoza,"54,673",2016,OCT-DIC,Mayor
+9,Chilpancingo,"52,129",2016,OCT-DIC,Mayor
+1,Pantitlán,"51,866",2016,OCT-DIC,Mayor
+12,Tláhuac,"51,681",2016,OCT-DIC,Mayor
+6,Deptvo. 18 de Marzo,"1,872",2016,OCT-DIC,Menor
+4,Santa Anita,"2,431",2016,OCT-DIC,Menor
+12,Tlaltenco,"2,794",2016,OCT-DIC,Menor
+6,Inst. del Petróleo,"4,291",2016,OCT-DIC,Menor
+8,Chabacano,"4,352",2016,OCT-DIC,Menor
+B,Morelos,"4,403",2016,OCT-DIC,Menor
+5,Valle Gómez,"4,89",2016,OCT-DIC,Menor
+4,Consulado,"4,96",2016,OCT-DIC,Menor
+5,Consulado,"5,427",2016,OCT-DIC,Menor
+5,Hangares,"5,663",2016,OCT-DIC,Menor
+B,Ricardo Flores Magón,"5,888",2016,OCT-DIC,Menor
+B,Guerrero,"6,126",2016,OCT-DIC,Menor
+6,Tezozomoc,"6,35",2016,OCT-DIC,Menor
+B,Bosque de Aragón,"6,462",2016,OCT-DIC,Menor
+5,Inst. del Petróleo,"6,468",2016,OCT-DIC,Menor
+4,Talismán,"6,582",2016,OCT-DIC,Menor
+B,Garibaldi,"6,955",2016,OCT-DIC,Menor
+9,Ciudad Deportiva,"7,14",2016,OCT-DIC,Menor
+8,Santa Anita,"7,204",2016,OCT-DIC,Menor
+7,Tacubaya,"7,209",2016,OCT-DIC,Menor
+A,Pantitlán,"136,611",2017,ENE-MAR,Mayor
+3,Indios Verdes,"128,254",2017,ENE-MAR,Mayor
+2,Cuatro Caminos,"116,13",2017,ENE-MAR,Mayor
+5,Pantitlán,"106,214",2017,ENE-MAR,Mayor
+8,Constitución de 1917,"101,828",2017,ENE-MAR,Mayor
+9,Pantitlán,"101,133",2017,ENE-MAR,Mayor
+3,Universidad,"89,204",2017,ENE-MAR,Mayor
+2,Tasqueña,"82,306",2017,ENE-MAR,Mayor
+1,Observatorio,"81,462",2017,ENE-MAR,Mayor
+2,Zócalo,"69,542",2017,ENE-MAR,Mayor
+1,Insurgentes,69,2017,ENE-MAR,Mayor
+B,Buenavista,"67,956",2017,ENE-MAR,Mayor
+B,Ciudad Azteca,"65,702",2017,ENE-MAR,Mayor
+1,Zaragoza,"57,74",2017,ENE-MAR,Mayor
+1,Chapultepec,"56,503",2017,ENE-MAR,Mayor
+9,Tacubaya,"55,271",2017,ENE-MAR,Mayor
+12,Tláhuac,"53,541",2017,ENE-MAR,Mayor
+9,Chilpancingo,"53,482",2017,ENE-MAR,Mayor
+3,Copilco,"51,47",2017,ENE-MAR,Mayor
+7,Barranca del Muerto,"50,402",2017,ENE-MAR,Mayor
+6,Deptvo. 18 de Marzo,1.914,2017,ENE-MAR,Menor
+4,Santa Anita,2.447,2017,ENE-MAR,Menor
+12,Tlaltenco,2.947,2017,ENE-MAR,Menor
+B,Morelos,4.224,2017,ENE-MAR,Menor
+8,Chabacano,4.424,2017,ENE-MAR,Menor
+6,Inst. del Petróleo,4.474,2017,ENE-MAR,Menor
+4,Consulado,4.919,2017,ENE-MAR,Menor
+5,Consulado,5.297,2017,ENE-MAR,Menor
+5,Valle Gómez,5.357,2017,ENE-MAR,Menor
+B,Garibaldi,5.684,2017,ENE-MAR,Menor
+B,Ricardo Flores Magón,5.865,2017,ENE-MAR,Menor
+5,Hangares,6.064,2017,ENE-MAR,Menor
+6,Tezozomoc,6.076,2017,ENE-MAR,Menor
+B,Guerrero,6.160,2017,ENE-MAR,Menor
+B,Bosque de Aragón,6.454,2017,ENE-MAR,Menor
+5,Inst. del Petróleo,6.494,2017,ENE-MAR,Menor
+4,Talismán,6.573,2017,ENE-MAR,Menor
+7,Tacubaya,7.021,2017,ENE-MAR,Menor
+9,Ciudad Deportiva,7.185,2017,ENE-MAR,Menor
+8,Santa Anita,7.239,2017,ENE-MAR,Menor
+A,Pantitlán,"133,673",2017,ABR-JUN,Mayor
+3,Indios Verdes,"125,027",2017,ABR-JUN,Mayor
+2,Cuatro Caminos,"118,293",2017,ABR-JUN,Mayor
+5,Pantitlán,"113,862",2017,ABR-JUN,Mayor
+9,Pantitlán,"96,342",2017,ABR-JUN,Mayor
+8,Constitución de 1917,"94,693",2017,ABR-JUN,Mayor
+1,Observatorio,"84,017",2017,ABR-JUN,Mayor
+2,Tasqueña,"80,542",2017,ABR-JUN,Mayor
+3,Universidad,"85,252",2017,ABR-JUN,Mayor
+2,Zócalo,"71,391",2017,ABR-JUN,Mayor
+B,Buenavista,"66,326",2017,ABR-JUN,Mayor
+B,Ciudad Azteca,"65,249",2017,ABR-JUN,Mayor
+1,Insurgentes,"66,48",2017,ABR-JUN,Mayor
+1,Chapultepec,"58,751",2017,ABR-JUN,Mayor
+1,Zaragoza,"56,117",2017,ABR-JUN,Mayor
+1,Merced,"48,39",2017,ABR-JUN,Mayor
+9,Tacubaya,"55,01",2017,ABR-JUN,Mayor
+12,Tláhuac,"53,474",2017,ABR-JUN,Mayor
+9,Chilpancingo,"51,47",2017,ABR-JUN,Mayor
+7,Barranca del Muerto,"49,046",2017,ABR-JUN,Mayor
+6,Deptvo. 18 de Marzo,"2,068",2017,ABR-JUN,Menor
+4,Santa Anita,"2,424",2017,ABR-JUN,Menor
+12,Tlaltenco,"3,014",2017,ABR-JUN,Menor
+6,Inst. del Petróleo,"4,316",2017,ABR-JUN,Menor
+8,Chabacano,"4,405",2017,ABR-JUN,Menor
+5,Valle Gómez,"4,741",2017,ABR-JUN,Menor
+4,Consulado,"4,835",2017,ABR-JUN,Menor
+B,Morelos,"4,909",2017,ABR-JUN,Menor
+5,Consulado,"5,142",2017,ABR-JUN,Menor
+5,Hangares,"5,778",2017,ABR-JUN,Menor
+B,Ricardo Flores Magón,"5,874",2017,ABR-JUN,Menor
+5,Inst. del Petróleo,"6,422",2017,ABR-JUN,Menor
+4,Bondojito,"6,259",2017,ABR-JUN,Menor
+4,Talismán,"6,394",2017,ABR-JUN,Menor
+6,Tezozomoc,"6,358",2017,ABR-JUN,Menor
+B,Guerrero,"6,137",2017,ABR-JUN,Menor
+9,Ciudad Deportiva,"6,735",2017,ABR-JUN,Menor
+8,Santa Anita,"7,029",2017,ABR-JUN,Menor
+7,Tacubaya,"7,084",2017,ABR-JUN,Menor
+5,Eduardo Molina,"7,552",2017,ABR-JUN,Menor
+3,Indios Verdes,"111,119",2017,JUL-SEP,Mayor
+A,Pantitlán,"110,34",2017,JUL-SEP,Mayor
+2,Cuatro Caminos,"107,97",2017,JUL-SEP,Mayor
+5,Pantitlán,"104,415",2017,JUL-SEP,Mayor
+9,Pantitlán,"84,678",2017,JUL-SEP,Mayor
+8,Constitución de 1917,"77,989",2017,JUL-SEP,Mayor
+1,Observatorio,"77,413",2017,JUL-SEP,Mayor
+3,Universidad,"76,678",2017,JUL-SEP,Mayor
+2,Tasqueña,"74,118",2017,JUL-SEP,Mayor
+2,Zócalo,"63,861",2017,JUL-SEP,Mayor
+B,Buenavista,"60,204",2017,JUL-SEP,Mayor
+1,Insurgentes,"59,508",2017,JUL-SEP,Mayor
+B,Ciudad Azteca,"57,351",2017,JUL-SEP,Mayor
+1,Zaragoza,"53,184",2017,JUL-SEP,Mayor
+1,Chapultepec,"52,205",2017,JUL-SEP,Mayor
+9,Tacubaya,"49,744",2017,JUL-SEP,Mayor
+12,Tláhuac,"47,849",2017,JUL-SEP,Mayor
+9,Chilpancingo,"46,867",2017,JUL-SEP,Mayor
+7,Barranca del Muerto,"45,647",2017,JUL-SEP,Mayor
+1,Pantitlán,"45,308",2017,JUL-SEP,Mayor
+6,Deptvo. 18 de Marzo,"1,847",2017,JUL-SEP,Menor
+4,Santa Anita,"2,197",2017,JUL-SEP,Menor
+12,Tlaltenco,"2,67",2017,JUL-SEP,Menor
+6,Inst. del Petróleo,"3,851",2017,JUL-SEP,Menor
+8,Chabacano,"3,963",2017,JUL-SEP,Menor
+4,Consulado,"4,253",2017,JUL-SEP,Menor
+B,Morelos,"4,304",2017,JUL-SEP,Menor
+5,Valle Gómez,"4,316",2017,JUL-SEP,Menor
+5,Consulado,"4,717",2017,JUL-SEP,Menor
+5,Hangares,"5,172",2017,JUL-SEP,Menor
+7,Tacubaya,"5,363",2017,JUL-SEP,Menor
+B,Ricardo Flores Magón,"5,436",2017,JUL-SEP,Menor
+B,Garibaldi,"5,499",2017,JUL-SEP,Menor
+B,Bosque de Aragón,"5,577",2017,JUL-SEP,Menor
+B,Guerrero,"5,632",2017,JUL-SEP,Menor
+4,Talismán,"5,643",2017,JUL-SEP,Menor
+6,Tezozomoc,"5,684",2017,JUL-SEP,Menor
+5,Inst. del Petróleo,"5,832",2017,JUL-SEP,Menor
+8,Santa Anita,"6,328",2017,JUL-SEP,Menor
+9,Ciudad Deportiva,"6,357",2017,JUL-SEP,Menor
+2,Cuatro Caminos,"124,031",2017,OCT-DIC,Mayor
+3,Indios Verdes,"119,001",2017,OCT-DIC,Mayor
+5,Pantitlán,"116,033",2017,OCT-DIC,Mayor
+A,Pantitlán,"114,12",2017,OCT-DIC,Mayor
+8,Constitución de 1917,"107,722",2017,OCT-DIC,Mayor
+9,Pantitlán,"96,838",2017,OCT-DIC,Mayor
+3,Universidad,"89,144",2017,OCT-DIC,Mayor
+2,Tasqueña,"87,55",2017,OCT-DIC,Mayor
+2,Zócalo,"80,834",2017,OCT-DIC,Mayor
+1,Observatorio,"80,034",2017,OCT-DIC,Mayor
+B,Buenavista,"68,783",2017,OCT-DIC,Mayor
+B,Ciudad Azteca,"65,113",2017,OCT-DIC,Mayor
+1,Insurgentes,"63,662",2017,OCT-DIC,Mayor
+1,Chapultepec,"58,56",2017,OCT-DIC,Mayor
+1,Zaragoza,"58,521",2017,OCT-DIC,Mayor
+9,Tacubaya,"55,721",2017,OCT-DIC,Mayor
+1,Merced,"52,989",2017,OCT-DIC,Mayor
+7,Barranca del Muerto,"52,69",2017,OCT-DIC,Mayor
+9,Chilpancingo,"50,208",2017,OCT-DIC,Mayor
+3,Copilco,"50,047",2017,OCT-DIC,Mayor
+12,Tlaltenco,"2,109",2017,OCT-DIC,Menor
+6,Deptvo. 18 de Marzo,"2,508",2017,OCT-DIC,Menor
+4,Santa Anita,"2,56",2017,OCT-DIC,Menor
+6,Inst. del Petróleo,"4,502",2017,OCT-DIC,Menor
+8,Chabacano,"4,703",2017,OCT-DIC,Menor
+4,Consulado,"5,091",2017,OCT-DIC,Menor
+5,Valle Gómez,"5,202",2017,OCT-DIC,Menor
+B,Morelos,"5,342",2017,OCT-DIC,Menor
+5,Consulado,"5,534",2017,OCT-DIC,Menor
+8,La Viga,"5,657",2017,OCT-DIC,Menor
+5,Hangares,"6,009",2017,OCT-DIC,Menor
+B,Bosque de Aragón,"6,326",2017,OCT-DIC,Menor
+B,Garibaldi,"6,408",2017,OCT-DIC,Menor
+B,Guerrero,"6,51",2017,OCT-DIC,Menor
+B,Ricardo Flores Magón,"6,547",2017,OCT-DIC,Menor
+6,Tezozomoc,"6,558",2017,OCT-DIC,Menor
+4,Talismán,"6,73",2017,OCT-DIC,Menor
+5,Inst. del Petróleo,"7,159",2017,OCT-DIC,Menor
+9,Ciudad Deportiva,"7,316",2017,OCT-DIC,Menor
+7,Tacubaya,"7,362",2017,OCT-DIC,Menor
+3,Indios Verdes,"124,477",2018,ENE-MAR,Mayor
+A,Pantitlán,"122,56",2018,ENE-MAR,Mayor
+2,Cuatro Caminos,"121,809",2018,ENE-MAR,Mayor
+5,Pantitlán,"115,094",2018,ENE-MAR,Mayor
+8,Constitución de 1917,"96,6",2018,ENE-MAR,Mayor
+9,Pantitlán,"96,535",2018,ENE-MAR,Mayor
+3,Universidad,"90,322",2018,ENE-MAR,Mayor
+2,Tasqueña,"89,926",2018,ENE-MAR,Mayor
+1,Observatorio,"77,919",2018,ENE-MAR,Mayor
+2,Zócalo,"71,616",2018,ENE-MAR,Mayor
+B,Buenavista,"68,018",2018,ENE-MAR,Mayor
+B,Ciudad Azteca,"62,513",2018,ENE-MAR,Mayor
+1,Insurgentes,"62,493",2018,ENE-MAR,Mayor
+1,Chapultepec,"58,352",2018,ENE-MAR,Mayor
+1,Zaragoza,"56,347",2018,ENE-MAR,Mayor
+9,Tacubaya,"55,364",2018,ENE-MAR,Mayor
+12,Tláhuac,"54,812",2018,ENE-MAR,Mayor
+7,Barranca del Muerto,"53,987",2018,ENE-MAR,Mayor
+9,Chilpancingo,"49,549",2018,ENE-MAR,Mayor
+3,Copilco,"48,885",2018,ENE-MAR,Mayor
+6,Deptvo. 18 de Marzo,"2,193",2018,ENE-MAR,Menor
+4,Santa Anita,"2,546",2018,ENE-MAR,Menor
+12,Tlaltenco,"3,13",2018,ENE-MAR,Menor
+6,Inst. del Petróleo,"4,459",2018,ENE-MAR,Menor
+8,Chabacano,"4,715",2018,ENE-MAR,Menor
+4,Consulado,"4,944",2018,ENE-MAR,Menor
+5,Valle Gómez,"5,028",2018,ENE-MAR,Menor
+B,Morelos,"5,175",2018,ENE-MAR,Menor
+5,Consulado,"5,374",2018,ENE-MAR,Menor
+5,Hangares,"5,959",2018,ENE-MAR,Menor
+B,Bosque de Aragón,"6,202",2018,ENE-MAR,Menor
+6,Tezozomoc,"6,428",2018,ENE-MAR,Menor
+B,Guerrero,"6,449",2018,ENE-MAR,Menor
+4,Talismán,"6,552",2018,ENE-MAR,Menor
+B,Garibaldi,"6,572",2018,ENE-MAR,Menor
+B,Ricardo Flores Magón,"6,747",2018,ENE-MAR,Menor
+8,La Viga,"6,899",2018,ENE-MAR,Menor
+7,Tacubaya,"7,307",2018,ENE-MAR,Menor
+9,Ciudad Deportiva,"7,4",2018,ENE-MAR,Menor
+5,Inst. del Petróleo,"7,4",2018,ENE-MAR,Menor
+2,Cuatro Caminos,"121,399",2018,ABR-JUN,Mayor
+3,Indios Verdes,"121,074",2018,ABR-JUN,Mayor
+A,Pantitlán,"117,462",2018,ABR-JUN,Mayor
+5,Pantitlán,"116,026",2018,ABR-JUN,Mayor
+8,Constitución de 1917,"102,927",2018,ABR-JUN,Mayor
+9,Pantitlán,"96,371",2018,ABR-JUN,Mayor
+3,Universidad,"88,998",2018,ABR-JUN,Mayor
+2,Tasqueña,"88,903",2018,ABR-JUN,Mayor
+1,Observatorio,"81,683",2018,ABR-JUN,Mayor
+2,Zócalo,"70,152",2018,ABR-JUN,Mayor
+B,Buenavista,"67,875",2018,ABR-JUN,Mayor
+1,Insurgentes,"64,237",2018,ABR-JUN,Mayor
+B,Ciudad Azteca,"64,183",2018,ABR-JUN,Mayor
+12,Tláhuac,"58,832",2018,ABR-JUN,Mayor
+1,Chapultepec,"54,922",2018,ABR-JUN,Mayor
+1,Zaragoza,"53,91",2018,ABR-JUN,Mayor
+9,Tacubaya,"53,448",2018,ABR-JUN,Mayor
+7,Barranca del Muerto,"52,981",2018,ABR-JUN,Mayor
+9,Chilpancingo,"48,765",2018,ABR-JUN,Mayor
+1,Pantitlán,"47,656",2018,ABR-JUN,Mayor
+6,Deptvo. 18 de Marzo,"2,076",2018,ABR-JUN,Menor
+4,Santa Anita,"2,613",2018,ABR-JUN,Menor
+12,Tlaltenco,"3,339",2018,ABR-JUN,Menor
+6,Inst. del Petróleo,"4,105",2018,ABR-JUN,Menor
+8,Chabacano,"4,51",2018,ABR-JUN,Menor
+4,Consulado,"4,828",2018,ABR-JUN,Menor
+5,Valle Gómez,"5,036",2018,ABR-JUN,Menor
+B,Morelos,"5,137",2018,ABR-JUN,Menor
+5,Consulado,"5,396",2018,ABR-JUN,Menor
+5,Hangares,"5,853",2018,ABR-JUN,Menor
+B,Bosque de Aragón,"6,207",2018,ABR-JUN,Menor
+B,Ricardo Flores Magón,"6,273",2018,ABR-JUN,Menor
+4,Talismán,"6,382",2018,ABR-JUN,Menor
+B,Guerrero,"6,404",2018,ABR-JUN,Menor
+6,Tezozomoc,"6,547",2018,ABR-JUN,Menor
+9,Ciudad Deportiva,"6,807",2018,ABR-JUN,Menor
+B,Garibaldi,"6,815",2018,ABR-JUN,Menor
+5,Inst. del Petróleo,"7,072",2018,ABR-JUN,Menor
+4,Bondojito,"7,186",2018,ABR-JUN,Menor
+7,Tacubaya,"7,308",2018,ABR-JUN,Menor
+3,Indios Verdes,"121,602",2018,JUL-SEP,Mayor
+A,Pantitlán,"120,726",2018,JUL-SEP,Mayor
+5,Pantitlán,"117,404",2018,JUL-SEP,Mayor
+2,Cuatro Caminos,"116,042",2018,JUL-SEP,Mayor
+9,Pantitlán,"98,146",2018,JUL-SEP,Mayor
+8,Constitución de 1917,"97,347",2018,JUL-SEP,Mayor
+2,Tasqueña,"88,323",2018,JUL-SEP,Mayor
+3,Universidad,"85,676",2018,JUL-SEP,Mayor
+1,Observatorio,"83,366",2018,JUL-SEP,Mayor
+2,Zócalo,"71,985",2018,JUL-SEP,Mayor
+B,Buenavista,"66,353",2018,JUL-SEP,Mayor
+B,Ciudad Azteca,"65,738",2018,JUL-SEP,Mayor
+1,Insurgentes,"63,899",2018,JUL-SEP,Mayor
+12,Tláhuac,"60,419",2018,JUL-SEP,Mayor
+1,Chapultepec,"59,715",2018,JUL-SEP,Mayor
+1,Zaragoza,"54,447",2018,JUL-SEP,Mayor
+9,Tacubaya,"52,933",2018,JUL-SEP,Mayor
+7,Barranca del Muerto,"49,587",2018,JUL-SEP,Mayor
+1,Pantitlán,"48,589",2018,JUL-SEP,Mayor
+9,Chilpancingo,"48,25",2018,JUL-SEP,Mayor
+6,Deptvo. 18 de Marzo,"2,049",2018,JUL-SEP,Menor
+4,Santa Anita,"2,67",2018,JUL-SEP,Menor
+12,Tlaltenco,"3,446",2018,JUL-SEP,Menor
+6,Inst. del Petróleo,"3,753",2018,JUL-SEP,Menor
+4,Consulado,"4,78",2018,JUL-SEP,Menor
+5,Valle Gómez,"5,047",2018,JUL-SEP,Menor
+B,Morelos,"5,111",2018,JUL-SEP,Menor
+5,Consulado,"5,24",2018,JUL-SEP,Menor
+8,Chabacano,"5,263",2018,JUL-SEP,Menor
+B,Ricardo Flores Magón,"5,666",2018,JUL-SEP,Menor
+5,Hangares,"5,915",2018,JUL-SEP,Menor
+B,Guerrero,"6,195",2018,JUL-SEP,Menor
+4,Talismán,"6,39",2018,JUL-SEP,Menor
+B,Bosque de Aragón,"6,475",2018,JUL-SEP,Menor
+6,Tezozomoc,"6,491",2018,JUL-SEP,Menor
+B,Garibaldi,"6,588",2018,JUL-SEP,Menor
+5,Inst. del Petróleo,"6,825",2018,JUL-SEP,Menor
+4,Bondojito,"6,902",2018,JUL-SEP,Menor
+7,Tacubaya,"6,904",2018,JUL-SEP,Menor
+9,Ciudad Deportiva,"6,974",2018,JUL-SEP,Menor
+A,Pantitlán,"136,717",2018,OCT-DIC,Mayor
+2,Cuatro Caminos,"118,893",2018,OCT-DIC,Mayor
+3,Indios Verdes,"118,003",2018,OCT-DIC,Mayor
+5,Pantitlán,"117,628",2018,OCT-DIC,Mayor
+8,Constitución de 1917,"98,924",2018,OCT-DIC,Mayor
+9,Pantitlán,"97,464",2018,OCT-DIC,Mayor
+3,Universidad,"86,155",2018,OCT-DIC,Mayor
+2,Tasqueña,"84,822",2018,OCT-DIC,Mayor
+1,Observatorio,"81,479",2018,OCT-DIC,Mayor
+2,Zócalo,"78,431",2018,OCT-DIC,Mayor
+B,Buenavista,"67,731",2018,OCT-DIC,Mayor
+1,Insurgentes,"66,482",2018,OCT-DIC,Mayor
+B,Ciudad Azteca,"65,785",2018,OCT-DIC,Mayor
+12,Tláhuac,"61,969",2018,OCT-DIC,Mayor
+1,Chapultepec,"57,183",2018,OCT-DIC,Mayor
+1,Zaragoza,"54,406",2018,OCT-DIC,Mayor
+7,Barranca del Muerto,"54,371",2018,OCT-DIC,Mayor
+9,Tacubaya,"52,795",2018,OCT-DIC,Mayor
+1,Merced,"51,594",2018,OCT-DIC,Mayor
+1,Pantitlán,"49,026",2018,OCT-DIC,Mayor
+6,Deptvo. 18 de Marzo,"2,154",2018,OCT-DIC,Menor
+4,Santa Anita,"2,648",2018,OCT-DIC,Menor
+6,Inst. del Petróleo,"3,69",2018,OCT-DIC,Menor
+12,Tlaltenco,"3,47",2018,OCT-DIC,Menor
+8,Chabacano,"4,943",2018,OCT-DIC,Menor
+5,Valle Gómez,"5,009",2018,OCT-DIC,Menor
+4,Consulado,"4,901",2018,OCT-DIC,Menor
+B,Bosque de Aragón,"4,924",2018,OCT-DIC,Menor
+5,Consulado,"5,297",2018,OCT-DIC,Menor
+5,Hangares,"5,823",2018,OCT-DIC,Menor
+4,Talismán,"6,068",2018,OCT-DIC,Menor
+B,Morelos,"5,544",2018,OCT-DIC,Menor
+B,Ricardo Flores Magón,"5,87",2018,OCT-DIC,Menor
+5,Inst. del Petróleo,"6,888",2018,OCT-DIC,Menor
+6,Tezozomoc,"6,496",2018,OCT-DIC,Menor
+B,Guerrero,"6,275",2018,OCT-DIC,Menor
+7,Tacubaya,"7,124",2018,OCT-DIC,Menor
+9,Ciudad Deportiva,"6,991",2018,OCT-DIC,Menor
+4,Bondojito,"7,423",2018,OCT-DIC,Menor
+8,Santa Anita,"7,516",2018,OCT-DIC,Menor
+A,Pantitlán,"133,122",2019,ENE-MAR,Mayor
+3,Indios Verdes,"120,331",2019,ENE-MAR,Mayor
+5,Pantitlán,"117,67",2019,ENE-MAR,Mayor
+2,Cuatro Caminos,"111,635",2019,ENE-MAR,Mayor
+8,Constitución de 1917,"102,677",2019,ENE-MAR,Mayor
+9,Pantitlán,"101,53",2019,ENE-MAR,Mayor
+3,Universidad,"88,679",2019,ENE-MAR,Mayor
+2,Tasqueña,"84,743",2019,ENE-MAR,Mayor
+1,Observatorio,"80,348",2019,ENE-MAR,Mayor
+2,Zócalo,"69,8",2019,ENE-MAR,Mayor
+B,Buenavista,"67,573",2019,ENE-MAR,Mayor
+B,Ciudad Azteca,"66,77",2019,ENE-MAR,Mayor
+1,Insurgentes,"65,444",2019,ENE-MAR,Mayor
+12,Tláhuac,"64,268",2019,ENE-MAR,Mayor
+1,Chapultepec,"57,006",2019,ENE-MAR,Mayor
+1,Zaragoza,"54,745",2019,ENE-MAR,Mayor
+7,Barranca del Muerto,"54,233",2019,ENE-MAR,Mayor
+9,Tacubaya,"51,583",2019,ENE-MAR,Mayor
+9,Chilpancingo,"49,757",2019,ENE-MAR,Mayor
+1,Pantitlán,"49,345",2019,ENE-MAR,Mayor
+6,Deptvo. 18 de Marzo,"2,079",2019,ENE-MAR,Menor
+4,Santa Anita,"2,649",2019,ENE-MAR,Menor
+12,Tlaltenco,"3,55",2019,ENE-MAR,Menor
+6,Inst. del Petróleo,"3,892",2019,ENE-MAR,Menor
+B,Bosque de Aragón,"3,974",2019,ENE-MAR,Menor
+4,Consulado,"4,931",2019,ENE-MAR,Menor
+8,Chabacano,"4,94",2019,ENE-MAR,Menor
+5,Valle Gómez,"5,035",2019,ENE-MAR,Menor
+5,Consulado,"5,412",2019,ENE-MAR,Menor
+B,Morelos,"5,519",2019,ENE-MAR,Menor
+5,Hangares,"5,88",2019,ENE-MAR,Menor
+B,Guerrero,"6,052",2019,ENE-MAR,Menor
+B,Garibaldi,"6,328",2019,ENE-MAR,Menor
+B,Ricardo Flores Magón,"6,458",2019,ENE-MAR,Menor
+4,Talismán,"6,478",2019,ENE-MAR,Menor
+6,Tezozomoc,"6,648",2019,ENE-MAR,Menor
+5,Inst. del Petróleo,"7,099",2019,ENE-MAR,Menor
+9,Ciudad Deportiva,"7,144",2019,ENE-MAR,Menor
+4,Bondojito,"7,186",2019,ENE-MAR,Menor
+7,Tacubaya,"7,198",2019,ENE-MAR,Menor
+A,Pantitlán,"132,103",2019,ABR-JUN,Mayor
+2,Cuatro Caminos,"118,259",2019,ABR-JUN,Mayor
+3,Indios Verdes,"116,935",2019,ABR-JUN,Mayor
+5,Pantitlán,"116,051",2019,ABR-JUN,Mayor
+9,Pantitlán,"97,436",2019,ABR-JUN,Mayor
+8,Constitución de 1917,"97,408",2019,ABR-JUN,Mayor
+3,Universidad,"82,871",2019,ABR-JUN,Mayor
+2,Tasqueña,"82,182",2019,ABR-JUN,Mayor
+1,Observatorio,"78,428",2019,ABR-JUN,Mayor
+2,Zócalo,"72,192",2019,ABR-JUN,Mayor
+B,Buenavista,"66,07",2019,ABR-JUN,Mayor
+1,Insurgentes,"64,824",2019,ABR-JUN,Mayor
+12,Tláhuac,"64,347",2019,ABR-JUN,Mayor
+B,Ciudad Azteca,"63,93",2019,ABR-JUN,Mayor
+1,Chapultepec,"58,739",2019,ABR-JUN,Mayor
+7,Barranca del Muerto,"56,128",2019,ABR-JUN,Mayor
+1,Zaragoza,"52,056",2019,ABR-JUN,Mayor
+9,Chilpancingo,"48,487",2019,ABR-JUN,Mayor
+1,Pantitlán,"48,297",2019,ABR-JUN,Mayor
+9,Tacubaya,"47,869",2019,ABR-JUN,Mayor
+6,Deptvo. 18 de Marzo,"1,921",2019,ABR-JUN,Menor
+4,Santa Anita,"2,583",2019,ABR-JUN,Menor
+12,Tlaltenco,"3,736",2019,ABR-JUN,Menor
+6,Inst. del Petróleo,"3,863",2019,ABR-JUN,Menor
+4,Consulado,"4,763",2019,ABR-JUN,Menor
+5,Valle Gómez,"4,78",2019,ABR-JUN,Menor
+8,Chabacano,"4,92",2019,ABR-JUN,Menor
+5,Consulado,"5,186",2019,ABR-JUN,Menor
+B,Morelos,"5,622",2019,ABR-JUN,Menor
+4,Talismán,"5,739",2019,ABR-JUN,Menor
+5,Hangares,"5,869",2019,ABR-JUN,Menor
+B,Guerrero,"5,902",2019,ABR-JUN,Menor
+B,Bosque de Aragón,"6,2",2019,ABR-JUN,Menor
+6,Tezozomoc,"6,326",2019,ABR-JUN,Menor
+B,Ricardo Flores Magón,"6,47",2019,ABR-JUN,Menor
+B,Garibaldi,"6,82",2019,ABR-JUN,Menor
+5,Inst. del Petróleo,"6,955",2019,ABR-JUN,Menor
+4,Bondojito,"7,034",2019,ABR-JUN,Menor
+7,Tacubaya,"7,129",2019,ABR-JUN,Menor
+5,Eduardo Molina,"7,33",2019,ABR-JUN,Menor
+A,Pantitlán,"143,238",2019,JUL-SEP,Mayor
+2,Cuatro Caminos,"124,789",2019,JUL-SEP,Mayor
+3,Indios Verdes,"117,109",2019,JUL-SEP,Mayor
+5,Pantitlán,"113,873",2019,JUL-SEP,Mayor
+9,Pantitlán,"101,193",2019,JUL-SEP,Mayor
+8,Constitución de 1917,"97,611",2019,JUL-SEP,Mayor
+3,Universidad,"84,864",2019,JUL-SEP,Mayor
+1,Observatorio,"78,954",2019,JUL-SEP,Mayor
+2,Tasqueña,"77,927",2019,JUL-SEP,Mayor
+2,Zócalo,"73,858",2019,JUL-SEP,Mayor
+1,Insurgentes,"67,173",2019,JUL-SEP,Mayor
+12,Tláhuac,"66,127",2019,JUL-SEP,Mayor
+B,Buenavista,"65,967",2019,JUL-SEP,Mayor
+B,Ciudad Azteca,"64,968",2019,JUL-SEP,Mayor
+1,Chapultepec,"58,186",2019,JUL-SEP,Mayor
+7,Barranca del Muerto,"55,718",2019,JUL-SEP,Mayor
+1,Pantitlán,"54,528",2019,JUL-SEP,Mayor
+9,Tacubaya,"51,54",2019,JUL-SEP,Mayor
+1,Zaragoza,"49,675",2019,JUL-SEP,Mayor
+9,Chilpancingo,"48,669",2019,JUL-SEP,Mayor
+6,Deptvo. 18 de Marzo,"1,95",2019,JUL-SEP,Menor
+4,Santa Anita,"2,226",2019,JUL-SEP,Menor
+12,Tlaltenco,"3,847",2019,JUL-SEP,Menor
+6,Inst. del Petróleo,"3,904",2019,JUL-SEP,Menor
+8,Chabacano,"4,578",2019,JUL-SEP,Menor
+4,Consulado,"4,742",2019,JUL-SEP,Menor
+5,Valle Gómez,"4,76",2019,JUL-SEP,Menor
+5,Consulado,"5,243",2019,JUL-SEP,Menor
+5,Hangares,"5,513",2019,JUL-SEP,Menor
+B,Morelos,"5,591",2019,JUL-SEP,Menor
+B,Guerrero,"5,996",2019,JUL-SEP,Menor
+4,Talismán,"6,168",2019,JUL-SEP,Menor
+6,Tezozomoc,"6,362",2019,JUL-SEP,Menor
+B,Bosque de Aragón,"6,387",2019,JUL-SEP,Menor
+B,Ricardo Flores Magón,"6,49",2019,JUL-SEP,Menor
+B,Garibaldi,"6,564",2019,JUL-SEP,Menor
+9,Ciudad Deportiva,"6,672",2019,JUL-SEP,Menor
+7,Tacubaya,"6,935",2019,JUL-SEP,Menor
+4,Bondojito,"7,02",2019,JUL-SEP,Menor
+5,Inst. del Petróleo,"7,248",2019,JUL-SEP,Menor
+A,Pantitlán,"145,078",2019,OCT-DIC,Mayor
+3,Indios Verdes,"120,74",2019,OCT-DIC,Mayor
+2,Cuatro Caminos,"120,706",2019,OCT-DIC,Mayor
+5,Pantitlán,"107,269",2019,OCT-DIC,Mayor
+9,Pantitlán,"102,536",2019,OCT-DIC,Mayor
+8,Constitución de 1917,"101,51",2019,OCT-DIC,Mayor
+3,Universidad,"86,56",2019,OCT-DIC,Mayor
+2,Tasqueña,"78,934",2019,OCT-DIC,Mayor
+1,Observatorio,"78,243",2019,OCT-DIC,Mayor
+2,Zócalo,"73,871",2019,OCT-DIC,Mayor
+12,Tláhuac,"68,371",2019,OCT-DIC,Mayor
+B,Buenavista,"68,263",2019,OCT-DIC,Mayor
+1,Insurgentes,"67,979",2019,OCT-DIC,Mayor
+1,Pantitlán,"64,838",2019,OCT-DIC,Mayor
+B,Ciudad Azteca,"64,356",2019,OCT-DIC,Mayor
+7,Barranca del Muerto,"56,72",2019,OCT-DIC,Mayor
+1,Chapultepec,"56,222",2019,OCT-DIC,Mayor
+1,Merced,"53,616",2019,OCT-DIC,Mayor
+9,Tacubaya,"51,298",2019,OCT-DIC,Mayor
+A,La Paz,"51,13",2019,OCT-DIC,Mayor
+6,Deptvo. 18 de Marzo,"1,96",2019,OCT-DIC,Menor
+4,Santa Anita,"2,336",2019,OCT-DIC,Menor
+6,Inst. del Petróleo,"3,854",2019,OCT-DIC,Menor
+12,Tlaltenco,"4,076",2019,OCT-DIC,Menor
+8,Chabacano,"4,819",2019,OCT-DIC,Menor
+5,Hangares,"4,92",2019,OCT-DIC,Menor
+5,Valle Gómez,"4,949",2019,OCT-DIC,Menor
+4,Consulado,"4,972",2019,OCT-DIC,Menor
+5,Consulado,"5,42",2019,OCT-DIC,Menor
+B,Morelos,"5,969",2019,OCT-DIC,Menor
+B,Ricardo Flores Magón,"6,345",2019,OCT-DIC,Menor
+4,Talismán,"6,454",2019,OCT-DIC,Menor
+B,Guerrero,"6,483",2019,OCT-DIC,Menor
+B,Bosque de Aragón,"6,571",2019,OCT-DIC,Menor
+6,Tezozómoc,"6,638",2019,OCT-DIC,Menor
+5,Inst. del Petróleo,"7,354",2019,OCT-DIC,Menor
+7,Tacubaya,"7,385",2019,OCT-DIC,Menor
+B,Garibaldi/Lagunilla,"7,42",2019,OCT-DIC,Menor
+8,Santa Anita,"7,505",2019,OCT-DIC,Menor
+4,Bondojito,"7,562",2019,OCT-DIC,Menor
+A,Pantitlán,"137,847",2020,ENE-MAR,Mayor
+3,Indios Verdes,"114,403",2020,ENE-MAR,Mayor
+2,Cuatro Caminos,"110,462",2020,ENE-MAR,Mayor
+9,Pantitlán,"100,699",2020,ENE-MAR,Mayor
+8,Constitución de 1917,"93,357",2020,ENE-MAR,Mayor
+5,Pantitlán,"89,638",2020,ENE-MAR,Mayor
+3,Universidad,"77,445",2020,ENE-MAR,Mayor
+2,Tasqueña,"73,729",2020,ENE-MAR,Mayor
+12,Tláhuac,"64,309",2020,ENE-MAR,Mayor
+1,Observatorio,"64,185",2020,ENE-MAR,Mayor
+1,Pantitlán,"62,066",2020,ENE-MAR,Mayor
+B,Buenavista,"61,258",2020,ENE-MAR,Mayor
+1,Insurgentes,"57,463",2020,ENE-MAR,Mayor
+B,Ciudad Azteca,"56,787",2020,ENE-MAR,Mayor
+2,Zócalo,"55,138",2020,ENE-MAR,Mayor
+1,Chapultepec,"51,709",2020,ENE-MAR,Mayor
+7,Barranca del Muerto,"51,123",2020,ENE-MAR,Mayor
+9,Tacubaya,"50,37",2020,ENE-MAR,Mayor
+A,La Paz,"48,39",2020,ENE-MAR,Mayor
+9,Chilpancingo,"47,097",2020,ENE-MAR,Mayor
+6,Deptvo. 18 de Marzo,"1,728",2020,ENE-MAR,Menor
+4,Santa Anita,"2,293",2020,ENE-MAR,Menor
+6,Inst. del Petróleo,"3,74",2020,ENE-MAR,Menor
+12,Tlaltenco,"3,972",2020,ENE-MAR,Menor
+5,Hangares,"4,274",2020,ENE-MAR,Menor
+8,Chabacano,"4,479",2020,ENE-MAR,Menor
+5,Valle Gómez,"4,539",2020,ENE-MAR,Menor
+4,Consulado,"4,547",2020,ENE-MAR,Menor
+5,Consulado,"4,811",2020,ENE-MAR,Menor
+B,Bosque de Aragón,"4,919",2020,ENE-MAR,Menor
+B,Morelos,"5,401",2020,ENE-MAR,Menor
+4,Talismán,"5,792",2020,ENE-MAR,Menor
+B,Guerrero,"6,018",2020,ENE-MAR,Menor
+B,Garibaldi/Lagunilla,"6,083",2020,ENE-MAR,Menor
+6,Tezozómoc,"6,181",2020,ENE-MAR,Menor
+B,Ricardo Flores Magón,"6,217",2020,ENE-MAR,Menor
+5,Inst. del Petróleo,"6,784",2020,ENE-MAR,Menor
+7,Tacubaya,"6,803",2020,ENE-MAR,Menor
+4,Bondojito,"6,826",2020,ENE-MAR,Menor
+9,Ciudad Deportiva,"6,895",2020,ENE-MAR,Menor
+A,Pantitlán,"55,712",2020,ABR-JUN,Mayor
+3,Indios Verdes,"49,602",2020,ABR-JUN,Mayor
+2,Cuatro Caminos,"43,496",2020,ABR-JUN,Mayor
+9,Pantitlán,"43,322",2020,ABR-JUN,Mayor
+5,Pantitlán,"40,905",2020,ABR-JUN,Mayor
+8,Constitución de 1917,"34,829",2020,ABR-JUN,Mayor
+1,Pantitlán,"26,178",2020,ABR-JUN,Mayor
+12,Tláhuac,"25,599",2020,ABR-JUN,Mayor
+1,Observatorio,"23,076",2020,ABR-JUN,Mayor
+B,Ciudad Azteca,"22,667",2020,ABR-JUN,Mayor
+1,Merced,"21,418",2020,ABR-JUN,Mayor
+2,Tasqueña,"20,775",2020,ABR-JUN,Mayor
+A,La Paz,"20,727",2020,ABR-JUN,Mayor
+1,Zaragoza,"20,657",2020,ABR-JUN,Mayor
+9,Tacubaya,"19,624",2020,ABR-JUN,Mayor
+3,Universidad,"17,676",2020,ABR-JUN,Mayor
+B,Buenavista,"17,621",2020,ABR-JUN,Mayor
+1,Insurgentes,"16,665",2020,ABR-JUN,Mayor
+1,Chapultepec,"16,218",2020,ABR-JUN,Mayor
+9,Chilpancingo,"15,929",2020,ABR-JUN,Mayor
+6,Deptvo. 18 de Marzo,486,2020,ABR-JUN,Menor
+12,Tlaltenco,564,2020,ABR-JUN,Menor
+7,Constituyentes,618,2020,ABR-JUN,Menor
+2,Popotla,636,2020,ABR-JUN,Menor
+5,Hangares,637,2020,ABR-JUN,Menor
+5,Valle Gómez,679,2020,ABR-JUN,Menor
+8,La Viga,695,2020,ABR-JUN,Menor
+4,Santa Anita,783,2020,ABR-JUN,Menor
+6,Tezozómoc,800,2020,ABR-JUN,Menor
+4,Talismán,837,2020,ABR-JUN,Menor
+4,Bondojito,935,2020,ABR-JUN,Menor
+6,Inst. del Petróleo,941,2020,ABR-JUN,Menor
+B,Romero Rubio,945,2020,ABR-JUN,Menor
+4,Fray Servando,"1,02",2020,ABR-JUN,Menor
+5,Eduardo Molina,"1,023",2020,ABR-JUN,Menor
+5,Misterios,"1,068",2020,ABR-JUN,Menor
+1,Juanacatlán,"1,069",2020,ABR-JUN,Menor
+4,Canal del Norte,"1,172",2020,ABR-JUN,Menor
+12,San Andrés Tomatlán,"1,217",2020,ABR-JUN,Menor
+5,Aragón,"1,226",2020,ABR-JUN,Menor
+A,Pantitlán,"81,591",2020,JUL-SEP,Mayor
+3,Indios Verdes,"71,141",2020,JUL-SEP,Mayor
+9,Pantitlán,"60,614",2020,JUL-SEP,Mayor
+5,Pantitlán,"57,966",2020,JUL-SEP,Mayor
+2,Cuatro Caminos,"54,741",2020,JUL-SEP,Mayor
+8,Constitución de 1917,"47,877",2020,JUL-SEP,Mayor
+1,Pantitlán,"38,054",2020,JUL-SEP,Mayor
+12,Tláhuac,"36,483",2020,JUL-SEP,Mayor
+1,Observatorio,"35,041",2020,JUL-SEP,Mayor
+2,Tasqueña,"33,37",2020,JUL-SEP,Mayor
+B,Ciudad Azteca,"32,365",2020,JUL-SEP,Mayor
+B,Buenavista,"28,387",2020,JUL-SEP,Mayor
+1,Zaragoza,"28,278",2020,JUL-SEP,Mayor
+A,La Paz,"28,172",2020,JUL-SEP,Mayor
+1,Insurgentes,"27,694",2020,JUL-SEP,Mayor
+9,Tacubaya,"27,371",2020,JUL-SEP,Mayor
+3,Universidad,"26,907",2020,JUL-SEP,Mayor
+1,Candelaria,"26,349",2020,JUL-SEP,Mayor
+1,Pino Suárez,"25,84",2020,JUL-SEP,Mayor
+1,Chapultepec,"24,686",2020,JUL-SEP,Mayor
+2,Allende *,395,2020,JUL-SEP,Menor
+6,Deptvo. 18 de Marzo,659,2020,JUL-SEP,Menor
+4,Santa Anita,970,2020,JUL-SEP,Menor
+6,Inst. del Petróleo,"1,244",2020,JUL-SEP,Menor
+4,Consulado,"1,835",2020,JUL-SEP,Menor
+12,Tlaltenco,"2,004",2020,JUL-SEP,Menor
+5,Hangares,"2,188",2020,JUL-SEP,Menor
+5,Valle Gómez,"2,198",2020,JUL-SEP,Menor
+8,Chabacano,"2,304",2020,JUL-SEP,Menor
+B,Bosque de Aragón,"2,401",2020,JUL-SEP,Menor
+7,Constituyentes,"2,434",2020,JUL-SEP,Menor
+6,Tezozómoc,"2,484",2020,JUL-SEP,Menor
+4,Talismán,"2,504",2020,JUL-SEP,Menor
+9,Ciudad Deportiva,"2,758",2020,JUL-SEP,Menor
+B,Garibaldi/Lagunilla,"2,89",2020,JUL-SEP,Menor
+7,Tacubaya,"2,922",2020,JUL-SEP,Menor
+4,Bondojito,"3,042",2020,JUL-SEP,Menor
+4,Candelaria,"3,084",2020,JUL-SEP,Menor
+4,Jamaica,"3,087",2020,JUL-SEP,Menor
+5,Consulado,"3,114",2020,JUL-SEP,Menor
